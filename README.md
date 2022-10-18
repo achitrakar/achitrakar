@@ -3,8 +3,8 @@
   <h1 align="center"><b>Hello there, I'm ✨Anup Chitrakar✨ 👋</b></h1>
   </p>
 
-
-  ![](https://komarev.com/ghpvc/?username=achitrakar)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fachitrakar&logo=leetcode&logoColor=yellow)](https://leetcode.com/achitrakar/)
+![](https://komarev.com/ghpvc/?username=achitrakar)
 
   ### :zap: Coding Beast Github Stats
 
